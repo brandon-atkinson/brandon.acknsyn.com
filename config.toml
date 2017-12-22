@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Brandon Atkinson"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/brandon-atkinson\">Brandon Atkinson</a> 2017"
-disqusShortname = "brandon.acknsyn.com"
 googleAnalytics = ""
 
 # Number of posts per page
